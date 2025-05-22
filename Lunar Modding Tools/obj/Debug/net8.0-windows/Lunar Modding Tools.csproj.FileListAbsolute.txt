@@ -1,0 +1,16 @@
+C:\Users\Jakoo\source\repos\Lunar Modding Tools\Lunar Modding Tools\bin\Debug\net8.0-windows\Lunar Modding Tools.exe
+C:\Users\Jakoo\source\repos\Lunar Modding Tools\Lunar Modding Tools\bin\Debug\net8.0-windows\Lunar Modding Tools.deps.json
+C:\Users\Jakoo\source\repos\Lunar Modding Tools\Lunar Modding Tools\bin\Debug\net8.0-windows\Lunar Modding Tools.runtimeconfig.json
+C:\Users\Jakoo\source\repos\Lunar Modding Tools\Lunar Modding Tools\bin\Debug\net8.0-windows\Lunar Modding Tools.dll
+C:\Users\Jakoo\source\repos\Lunar Modding Tools\Lunar Modding Tools\bin\Debug\net8.0-windows\Lunar Modding Tools.pdb
+C:\Users\Jakoo\source\repos\Lunar Modding Tools\Lunar Modding Tools\obj\Debug\net8.0-windows\Lunar_Modding_Tools.Form1.resources
+C:\Users\Jakoo\source\repos\Lunar Modding Tools\Lunar Modding Tools\obj\Debug\net8.0-windows\Lunar Modding Tools.csproj.GenerateResource.cache
+C:\Users\Jakoo\source\repos\Lunar Modding Tools\Lunar Modding Tools\obj\Debug\net8.0-windows\Lunar Modding Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakoo\source\repos\Lunar Modding Tools\Lunar Modding Tools\obj\Debug\net8.0-windows\Lunar Modding Tools.AssemblyInfoInputs.cache
+C:\Users\Jakoo\source\repos\Lunar Modding Tools\Lunar Modding Tools\obj\Debug\net8.0-windows\Lunar Modding Tools.AssemblyInfo.cs
+C:\Users\Jakoo\source\repos\Lunar Modding Tools\Lunar Modding Tools\obj\Debug\net8.0-windows\Lunar Modding Tools.csproj.CoreCompileInputs.cache
+C:\Users\Jakoo\source\repos\Lunar Modding Tools\Lunar Modding Tools\obj\Debug\net8.0-windows\Lunar Modding Tools.dll
+C:\Users\Jakoo\source\repos\Lunar Modding Tools\Lunar Modding Tools\obj\Debug\net8.0-windows\refint\Lunar Modding Tools.dll
+C:\Users\Jakoo\source\repos\Lunar Modding Tools\Lunar Modding Tools\obj\Debug\net8.0-windows\Lunar Modding Tools.pdb
+C:\Users\Jakoo\source\repos\Lunar Modding Tools\Lunar Modding Tools\obj\Debug\net8.0-windows\Lunar Modding Tools.genruntimeconfig.cache
+C:\Users\Jakoo\source\repos\Lunar Modding Tools\Lunar Modding Tools\obj\Debug\net8.0-windows\ref\Lunar Modding Tools.dll
